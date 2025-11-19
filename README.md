@@ -4,4 +4,4 @@ Open Mocap is an open-source Blender addon for AI-powered motion capture. It sup
 Please note: The addon works only till Blender 4.0.0. Newer version of Blender doesn't support the addon.
 
 Following is a tutorial on how to install and use the addon:
-[![Watch the video](https://img.youtube.com/vi/i07tcbw8ELiT3Ld1/0.jpg)](https://youtu.be/NWfkF-sr-dY?si=i07tcbw8ELiT3Ld1)
+[![Watch the video](https://img.youtube.com/vi/NWfkF-sr-dY/0.jpg)](https://youtu.be/NWfkF-sr-dY)
