@@ -6,10 +6,27 @@ Designed for artists, animators, and researchers who want fast, accessible motio
 
 ---
 
-⚠️ Blender Compatibility
+⚠️ Blender & Dependencies Compatibility
 
 Open Mocap is compatible only with Blender 4.0.0 and earlier.
 Newer Blender versions currently do not support the add-on.
+
+Best Compatibilty as of now:
+
+Blender: 4.0.0 or earlier
+
+Python: 3.10 (Blender’s bundled Python — no separate installation required)
+
+MediaPipe: 0.10.14 (Must be installed using the addon)
+
+OpenCV-Python: 4.11.0.86 (Must be installed using the addon)
+
+CVZone: 1.6.1 (Must be installed using the addon)
+
+> **Developer Note:**  
+> To ensure Open Mocap works correctly, install the versions listed above. Using newer versions of MediaPipe, OpenCV, CVZone, or Python may cause runtime errors.
+> However, developers are welcome to experiment with different versions to identify the best compatible setup. 
+> ⚠️ While installing OpenCV, many times a dummy or incorrect version may be installed. Installing and uninstalling the external libraries listed above was a challenging process during development, and this may be a Blender-specific issue.
 
 ---
 
