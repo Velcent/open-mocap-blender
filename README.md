@@ -33,6 +33,9 @@ CVZone: 1.6.1 (Must be installed using the addon)
 🚀 Features
 
 ✔️ Offline full-body motion capture
+![PoseTracking GIF](assets/PoseTracking.gif)
+✔️ Easy Retargeting of captured motion data to any 3D character
+![AnimRetargeting GIF](assets/PoseAnimRetargeting.gif)
 ✔️ Offline + real-time hand tracking
 ✔️ Easy retargeting to any rig
 ✔️ Blender-native workflow
