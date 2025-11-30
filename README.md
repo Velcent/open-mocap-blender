@@ -38,7 +38,7 @@ CVZone: 1.6.1 (Must be installed using the addon)
 
 ✔️ Easy Retargeting of captured motion data to any 3D character
 
-![AnimRetargeting GIF](assets/PoseAnimRetargeting.gif)
+![AnimRetargeting GIF](assets/PoseAnimRetarget.gif)
 
 ✔️ Offline + real-time hand tracking
 ✔️ Easy retargeting to any rig
