@@ -36,26 +36,26 @@ CVZone: 1.6.1 (Must be installed using the addon)
 
 Video of the actor below belongs to: https://www.youtube.com/@endlessreference
 
-![PoseTracking GIF](assets/PoseTracking.gif)
+<video src="assets/PoseTracking.mp4" autoplay loop muted playsinline></video>
 
 ✔️ Easy Retargeting of captured motion data to any 3D character
 
 3D character used in video below:
 “The Amazing Spiderman” (https://skfb.ly/6sRDt) by iqbalmulyawan is licensed under CC BY 4.0.
 
-![AnimRetargeting GIF](assets/PoseAnimRetarget.gif)
+<video src="assets/PoseAnimRetarget.mp4" autoplay loop muted playsinline></video>
 
 ✔️ Offline hand tracking
 
 Video created by Larenju Rai (https://github.com/Larenju-Rai).
 
-![HandTracking GIF](assets/HandTracking.gif)
+<video src="assets/HandTracking.mp4" autoplay loop muted playsinline></video>
 
 ✔️ Realtime hand tracking
 
 Video created by Larenju Rai (https://github.com/Larenju-Rai).
 
-![RT_HandTracking GIF](assets/RealTimeHandTracking.gif)
+<video src="assets/RealtimeHandTracking.mp4" autoplay loop muted playsinline></video>
 
 🚀 Other Features:
 
