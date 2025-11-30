@@ -33,11 +33,13 @@ CVZone: 1.6.1 (Must be installed using the addon)
 🚀 Features
 
 ✔️ Offline full-body motion capture
+
 Video of the actor below belongs to: https://www.youtube.com/@endlessreference
 
 ![PoseTracking GIF](assets/PoseTracking.gif)
 
 ✔️ Easy Retargeting of captured motion data to any 3D character
+
 3D character used in video below:
 “The Amazing Spiderman” (https://skfb.ly/6sRDt) by iqbalmulyawan is licensed under CC BY 4.0.
 
@@ -48,6 +50,7 @@ Video of the actor below belongs to: https://www.youtube.com/@endlessreference
 ![HandTracking GIF](assets/HandTracking.gif)
 
 ✔️ Realtime hand tracking
+
 Video created by Larenju Rai (https://github.com/Larenju-Rai).
 
 ![RT_HandTracking GIF](assets/RealTimeHandTracking.gif)
