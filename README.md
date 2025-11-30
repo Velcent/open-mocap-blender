@@ -47,6 +47,8 @@ Video of the actor below belongs to: https://www.youtube.com/@endlessreference
 
 ✔️ Offline hand tracking
 
+Video created by Larenju Rai (https://github.com/Larenju-Rai).
+
 ![HandTracking GIF](assets/HandTracking.gif)
 
 ✔️ Realtime hand tracking
@@ -55,7 +57,8 @@ Video created by Larenju Rai (https://github.com/Larenju-Rai).
 
 ![RT_HandTracking GIF](assets/RealTimeHandTracking.gif)
 
-✔️ Easy retargeting to any rig
+🚀 Other Features:
+
 ✔️ Blender-native workflow
 ✔️ Easy installation
 ✔️ Works fully offline
