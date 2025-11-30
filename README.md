@@ -40,7 +40,11 @@ CVZone: 1.6.1 (Must be installed using the addon)
 
 ![AnimRetargeting GIF](assets/PoseAnimRetarget.gif)
 
-✔️ Offline + real-time hand tracking
+✔️ Offline hand tracking
+
+![HandTracking GIF](assets/HandTracking.gif)
+
+✔️ Realtime hand tracking
 ✔️ Easy retargeting to any rig
 ✔️ Blender-native workflow
 ✔️ Easy installation
